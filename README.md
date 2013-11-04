@@ -52,7 +52,7 @@ console.log(meleagris_taxon_json.entry[0].accession); // 'AAF18048'
 
 ## Release History
 
-0.0.1 Sync read file, convert root node  of ENA xml entries to json objects
+0.0.1 Sync read file; convert root node of ENA xml entries (strings) to json objects
 
 ## License
 Copyright (c) 2013 Patrick De Marta  
