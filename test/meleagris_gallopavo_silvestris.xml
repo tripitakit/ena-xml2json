@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROOT request="Taxon:Meleagris gallopavo silvestris&amp;display=xml">
+	<taxon scientificName="Meleagris gallopavo silvestris" taxId="109974" parentTaxId="9103" rank="subspecies" hidden="true" taxonomicDivision="VRT" geneticCode="1" mitochondrialGeneticCode="2">
+		<lineage>
+			<taxon scientificName="Meleagris gallopavo" commonName="turkey" taxId="9103" rank="species" hidden="true"/>
+			<taxon scientificName="Meleagris" taxId="9102" rank="genus"/>
+			<taxon scientificName="Meleagridinae" taxId="466552" rank="subfamily"/>
+			<taxon scientificName="Phasianidae" taxId="9005" rank="family"/>
+			<taxon scientificName="Galliformes" commonName="fowls" taxId="8976" rank="order"/>
+			<taxon scientificName="Neognathae" taxId="8825" rank="superorder"/>
+			<taxon scientificName="Aves" commonName="birds" taxId="8782" rank="class"/>
+			<taxon scientificName="Coelurosauria" taxId="436492"/>
+			<taxon scientificName="Theropoda" taxId="436491"/>
+			<taxon scientificName="Saurischia" taxId="436489"/>
+			<taxon scientificName="Dinosauria" taxId="436486"/>
+			<taxon scientificName="Archosauria" taxId="8492"/>
+			<taxon scientificName="Testudines + Archosauria group" taxId="1329799"/>
+			<taxon scientificName="Sauria" commonName="diapsids" taxId="32561" hidden="true"/>
+			<taxon scientificName="Sauropsida" commonName="sauropsids" taxId="8457" hidden="true"/>
+			<taxon scientificName="Amniota" commonName="amniotes" taxId="32524" hidden="true"/>
+			<taxon scientificName="Tetrapoda" commonName="tetrapods" taxId="32523" hidden="true"/>
+			<taxon scientificName="Dipnotetrapodomorpha" taxId="1338369" hidden="true"/>
+			<taxon scientificName="Sarcopterygii" taxId="8287" hidden="true"/>
+			<taxon scientificName="Euteleostomi" commonName="bony vertebrates" taxId="117571"/>
+			<taxon scientificName="Teleostomi" taxId="117570" hidden="true"/>
+			<taxon scientificName="Gnathostomata" commonName="jawed vertebrates" taxId="7776" rank="superclass" hidden="true"/>
+			<taxon scientificName="Vertebrata" commonName="vertebrates" taxId="7742"/>
+			<taxon scientificName="Craniata" taxId="89593" rank="subphylum"/>
+			<taxon scientificName="Chordata" commonName="chordates" taxId="7711" rank="phylum"/>
+			<taxon scientificName="Deuterostomia" taxId="33511" hidden="true"/>
+			<taxon scientificName="Bilateria" taxId="33213" hidden="true"/>
+			<taxon scientificName="Eumetazoa" taxId="6072" hidden="true"/>
+			<taxon scientificName="Metazoa" commonName="metazoans" taxId="33208" rank="kingdom"/>
+			<taxon scientificName="Opisthokonta" taxId="33154" hidden="true"/>
+			<taxon scientificName="Eukaryota" commonName="eucaryotes" taxId="2759" rank="superkingdom"/>
+			<taxon scientificName="cellular organisms" taxId="131567" hidden="true"/>
+			<taxon scientificName="root" taxId="1" hidden="true"/>
+		</lineage>
+	</taxon>
+</ROOT>

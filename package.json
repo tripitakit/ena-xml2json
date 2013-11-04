@@ -1,0 +1,40 @@
+{
+  "name": "ena-xml2json",
+  "description": "(EMBL-EBI) ENA xml2json parser",
+  "version": "0.0.1",
+  "homepage": "https://github.com/tripitakit/ena-xml2json",
+  "author": {
+    "name": "Patrick De Marta",
+    "email": "patrick.demarta@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tripitakit/ena-xml2json.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tripitakit/ena-xml2json/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/tripitakit/ena-xml2json/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/ena-xml2json",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt nodeunit"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.4",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt": "~0.4.1"
+  },
+  "dependencies": {
+	  "node-xml2json": "~1.0.0"
+  },
+  "keywords": []
+}

@@ -1,0 +1,1590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROOT request="Taxon:109974&amp;amp;portal=sequence_coding&amp;amp;display=xml">
+<entry accession="AAF18048" version="1" entryVersion="2" dataClass="STD" taxonomicDivision="VRT" moleculeType="genomic DNA" sequenceLength="84" topology="linear" firstPublic="1999-12-16" firstPublicRelease="62" lastUpdated="2001-05-17" lastUpdatedRelease="67">
+	<description>Meleagris gallopavo silvestris partial NADH dehydrogenase subunit VI</description>
+	<xref db="EMBL" id="AF172947.1"/>
+	<feature name="source" location="1..84">
+		<taxon scientificName="Meleagris gallopavo silvestris" taxId="109974">
+			<lineage>
+				<taxon scientificName="Eukaryota"/>
+				<taxon scientificName="Metazoa"/>
+				<taxon scientificName="Chordata"/>
+				<taxon scientificName="Craniata"/>
+				<taxon scientificName="Vertebrata"/>
+				<taxon scientificName="Euteleostomi"/>
+				<taxon scientificName="Testudines + Archosauria group"/>
+				<taxon scientificName="Archosauria"/>
+				<taxon scientificName="Dinosauria"/>
+				<taxon scientificName="Saurischia"/>
+				<taxon scientificName="Theropoda"/>
+				<taxon scientificName="Coelurosauria"/>
+				<taxon scientificName="Aves"/>
+				<taxon scientificName="Neognathae"/>
+				<taxon scientificName="Galliformes"/>
+				<taxon scientificName="Phasianidae"/>
+				<taxon scientificName="Meleagridinae"/>
+				<taxon scientificName="Meleagris"/>
+			</lineage>
+		</taxon>
+		<qualifier name="organism">
+			<value>
+Meleagris gallopavo silvestris
+			</value>
+		</qualifier>
+		<qualifier name="organelle">
+			<value>
+mitochondrion
+			</value>
+		</qualifier>
+		<qualifier name="sub_species">
+			<value>
+silvestris
+			</value>
+		</qualifier>
+		<qualifier name="isolate">
+			<value>
+SDE1
+			</value>
+		</qualifier>
+	</feature>
+	<feature name="CDS" location="complement(AF172947.1:&lt;1..84)">
+		<xref db="GOA" id="Q9T4F7"/>
+		<xref db="UniProtKB/TrEMBL" id="Q9T4F7"/>
+		<qualifier name="codon_start">
+			<value>
+1
+			</value>
+		</qualifier>
+		<qualifier name="transl_table">
+			<value>
+2
+			</value>
+		</qualifier>
+		<qualifier name="product">
+			<value>
+NADH dehydrogenase subunit VI
+			</value>
+		</qualifier>
+		<qualifier name="protein_id">
+			<value>
+AAF18048.1
+			</value>
+		</qualifier>
+		<qualifier name="translation">
+			<value>
+MTYFVIFLGICFMLGVLAGRLILRRIMG
+			</value>
+		</qualifier>
+	</feature>
+	<sequence>
+atgacttatttcgtgatttttcttgggatttgttttatgttaggggttttagctgggcgt
+ctaatccttcgccgtattatgggg
+	</sequence>
+</entry>
+<entry accession="AAF18050" version="1" entryVersion="2" dataClass="STD" taxonomicDivision="VRT" moleculeType="genomic DNA" sequenceLength="84" topology="linear" firstPublic="1999-12-16" firstPublicRelease="62" lastUpdated="2001-05-17" lastUpdatedRelease="67">
+	<description>Meleagris gallopavo silvestris partial NADH dehydrogenase subunit VI</description>
+	<xref db="EMBL" id="AF172949.1"/>
+	<feature name="source" location="1..84">
+		<taxon scientificName="Meleagris gallopavo silvestris" taxId="109974">
+			<lineage>
+				<taxon scientificName="Eukaryota"/>
+				<taxon scientificName="Metazoa"/>
+				<taxon scientificName="Chordata"/>
+				<taxon scientificName="Craniata"/>
+				<taxon scientificName="Vertebrata"/>
+				<taxon scientificName="Euteleostomi"/>
+				<taxon scientificName="Testudines + Archosauria group"/>
+				<taxon scientificName="Archosauria"/>
+				<taxon scientificName="Dinosauria"/>
+				<taxon scientificName="Saurischia"/>
+				<taxon scientificName="Theropoda"/>
+				<taxon scientificName="Coelurosauria"/>
+				<taxon scientificName="Aves"/>
+				<taxon scientificName="Neognathae"/>
+				<taxon scientificName="Galliformes"/>
+				<taxon scientificName="Phasianidae"/>
+				<taxon scientificName="Meleagridinae"/>
+				<taxon scientificName="Meleagris"/>
+			</lineage>
+		</taxon>
+		<qualifier name="organism">
+			<value>
+Meleagris gallopavo silvestris
+			</value>
+		</qualifier>
+		<qualifier name="organelle">
+			<value>
+mitochondrion
+			</value>
+		</qualifier>
+		<qualifier name="sub_species">
+			<value>
+silvestris
+			</value>
+		</qualifier>
+		<qualifier name="isolate">
+			<value>
+AEF4
+			</value>
+		</qualifier>
+	</feature>
+	<feature name="CDS" location="complement(AF172949.1:&lt;1..84)">
+		<xref db="GOA" id="Q9T4F7"/>
+		<xref db="UniProtKB/TrEMBL" id="Q9T4F7"/>
+		<qualifier name="codon_start">
+			<value>
+1
+			</value>
+		</qualifier>
+		<qualifier name="transl_table">
+			<value>
+2
+			</value>
+		</qualifier>
+		<qualifier name="product">
+			<value>
+NADH dehydrogenase subunit VI
+			</value>
+		</qualifier>
+		<qualifier name="protein_id">
+			<value>
+AAF18050.1
+			</value>
+		</qualifier>
+		<qualifier name="translation">
+			<value>
+MTYFVIFLGICFMLGVLAGRLILRRIMG
+			</value>
+		</qualifier>
+	</feature>
+	<sequence>
+atgacttatttcgtgatttttcttgggatttgttttatgttaggggttttagctgggcgt
+ctaatccttcgccgtattatgggg
+	</sequence>
+</entry>
+<entry accession="AAF18051" version="1" entryVersion="2" dataClass="STD" taxonomicDivision="VRT" moleculeType="genomic DNA" sequenceLength="84" topology="linear" firstPublic="1999-12-16" firstPublicRelease="62" lastUpdated="2001-05-17" lastUpdatedRelease="67">
+	<description>Meleagris gallopavo silvestris partial NADH dehydrogenase subunit VI</description>
+	<xref db="EMBL" id="AF172950.1"/>
+	<feature name="source" location="1..84">
+		<taxon scientificName="Meleagris gallopavo silvestris" taxId="109974">
+			<lineage>
+				<taxon scientificName="Eukaryota"/>
+				<taxon scientificName="Metazoa"/>
+				<taxon scientificName="Chordata"/>
+				<taxon scientificName="Craniata"/>
+				<taxon scientificName="Vertebrata"/>
+				<taxon scientificName="Euteleostomi"/>
+				<taxon scientificName="Testudines + Archosauria group"/>
+				<taxon scientificName="Archosauria"/>
+				<taxon scientificName="Dinosauria"/>
+				<taxon scientificName="Saurischia"/>
+				<taxon scientificName="Theropoda"/>
+				<taxon scientificName="Coelurosauria"/>
+				<taxon scientificName="Aves"/>
+				<taxon scientificName="Neognathae"/>
+				<taxon scientificName="Galliformes"/>
+				<taxon scientificName="Phasianidae"/>
+				<taxon scientificName="Meleagridinae"/>
+				<taxon scientificName="Meleagris"/>
+			</lineage>
+		</taxon>
+		<qualifier name="organism">
+			<value>
+Meleagris gallopavo silvestris
+			</value>
+		</qualifier>
+		<qualifier name="organelle">
+			<value>
+mitochondrion
+			</value>
+		</qualifier>
+		<qualifier name="sub_species">
+			<value>
+silvestris
+			</value>
+		</qualifier>
+		<qualifier name="isolate">
+			<value>
+AEU5
+			</value>
+		</qualifier>
+	</feature>
+	<feature name="CDS" location="complement(AF172950.1:&lt;1..84)">
+		<xref db="GOA" id="Q9T4F7"/>
+		<xref db="UniProtKB/TrEMBL" id="Q9T4F7"/>
+		<qualifier name="codon_start">
+			<value>
+1
+			</value>
+		</qualifier>
+		<qualifier name="transl_table">
+			<value>
+2
+			</value>
+		</qualifier>
+		<qualifier name="product">
+			<value>
+NADH dehydrogenase subunit VI
+			</value>
+		</qualifier>
+		<qualifier name="protein_id">
+			<value>
+AAF18051.1
+			</value>
+		</qualifier>
+		<qualifier name="translation">
+			<value>
+MTYFVIFLGICFMLGVLAGRLILRRIMG
+			</value>
+		</qualifier>
+	</feature>
+	<sequence>
+atgacttatttcgtgatttttcttgggatttgttttatgttaggggttttagctgggcgt
+ctaatccttcgccgtattatgggg
+	</sequence>
+</entry>
+<entry accession="AAF18052" version="1" entryVersion="2" dataClass="STD" taxonomicDivision="VRT" moleculeType="genomic DNA" sequenceLength="84" topology="linear" firstPublic="1999-12-16" firstPublicRelease="62" lastUpdated="2001-05-17" lastUpdatedRelease="67">
+	<description>Meleagris gallopavo silvestris partial NADH dehydrogenase subunit VI</description>
+	<xref db="EMBL" id="AF172951.1"/>
+	<feature name="source" location="1..84">
+		<taxon scientificName="Meleagris gallopavo silvestris" taxId="109974">
+			<lineage>
+				<taxon scientificName="Eukaryota"/>
+				<taxon scientificName="Metazoa"/>
+				<taxon scientificName="Chordata"/>
+				<taxon scientificName="Craniata"/>
+				<taxon scientificName="Vertebrata"/>
+				<taxon scientificName="Euteleostomi"/>
+				<taxon scientificName="Testudines + Archosauria group"/>
+				<taxon scientificName="Archosauria"/>
+				<taxon scientificName="Dinosauria"/>
+				<taxon scientificName="Saurischia"/>
+				<taxon scientificName="Theropoda"/>
+				<taxon scientificName="Coelurosauria"/>
+				<taxon scientificName="Aves"/>
+				<taxon scientificName="Neognathae"/>
+				<taxon scientificName="Galliformes"/>
+				<taxon scientificName="Phasianidae"/>
+				<taxon scientificName="Meleagridinae"/>
+				<taxon scientificName="Meleagris"/>
+			</lineage>
+		</taxon>
+		<qualifier name="organism">
+			<value>
+Meleagris gallopavo silvestris
+			</value>
+		</qualifier>
+		<qualifier name="organelle">
+			<value>
+mitochondrion
+			</value>
+		</qualifier>
+		<qualifier name="sub_species">
+			<value>
+silvestris
+			</value>
+		</qualifier>
+		<qualifier name="isolate">
+			<value>
+AEF3
+			</value>
+		</qualifier>
+	</feature>
+	<feature name="CDS" location="complement(AF172951.1:&lt;1..84)">
+		<xref db="GOA" id="Q9T4F7"/>
+		<xref db="UniProtKB/TrEMBL" id="Q9T4F7"/>
+		<qualifier name="codon_start">
+			<value>
+1
+			</value>
+		</qualifier>
+		<qualifier name="transl_table">
+			<value>
+2
+			</value>
+		</qualifier>
+		<qualifier name="product">
+			<value>
+NADH dehydrogenase subunit VI
+			</value>
+		</qualifier>
+		<qualifier name="protein_id">
+			<value>
+AAF18052.1
+			</value>
+		</qualifier>
+		<qualifier name="translation">
+			<value>
+MTYFVIFLGICFMLGVLAGRLILRRIMG
+			</value>
+		</qualifier>
+	</feature>
+	<sequence>
+atgacttatttcgtgatttttcttgggatttgttttatgttaggggttttagctgggcgt
+ctaatccttcgccgtattatgggg
+	</sequence>
+</entry>
+<entry accession="AAF18054" version="1" entryVersion="2" dataClass="STD" taxonomicDivision="VRT" moleculeType="genomic DNA" sequenceLength="84" topology="linear" firstPublic="1999-12-16" firstPublicRelease="62" lastUpdated="2001-05-17" lastUpdatedRelease="67">
+	<description>Meleagris gallopavo silvestris partial NADH dehydrogenase subunit VI</description>
+	<xref db="EMBL" id="AF172953.1"/>
+	<feature name="source" location="1..84">
+		<taxon scientificName="Meleagris gallopavo silvestris" taxId="109974">
+			<lineage>
+				<taxon scientificName="Eukaryota"/>
+				<taxon scientificName="Metazoa"/>
+				<taxon scientificName="Chordata"/>
+				<taxon scientificName="Craniata"/>
+				<taxon scientificName="Vertebrata"/>
+				<taxon scientificName="Euteleostomi"/>
+				<taxon scientificName="Testudines + Archosauria group"/>
+				<taxon scientificName="Archosauria"/>
+				<taxon scientificName="Dinosauria"/>
+				<taxon scientificName="Saurischia"/>
+				<taxon scientificName="Theropoda"/>
+				<taxon scientificName="Coelurosauria"/>
+				<taxon scientificName="Aves"/>
+				<taxon scientificName="Neognathae"/>
+				<taxon scientificName="Galliformes"/>
+				<taxon scientificName="Phasianidae"/>
+				<taxon scientificName="Meleagridinae"/>
+				<taxon scientificName="Meleagris"/>
+			</lineage>
+		</taxon>
+		<qualifier name="organism">
+			<value>
+Meleagris gallopavo silvestris
+			</value>
+		</qualifier>
+		<qualifier name="organelle">
+			<value>
+mitochondrion
+			</value>
+		</qualifier>
+		<qualifier name="sub_species">
+			<value>
+silvestris
+			</value>
+		</qualifier>
+		<qualifier name="isolate">
+			<value>
+TE6
+			</value>
+		</qualifier>
+	</feature>
+	<feature name="CDS" location="complement(AF172953.1:&lt;1..84)">
+		<xref db="GOA" id="Q9T4F7"/>
+		<xref db="UniProtKB/TrEMBL" id="Q9T4F7"/>
+		<qualifier name="codon_start">
+			<value>
+1
+			</value>
+		</qualifier>
+		<qualifier name="transl_table">
+			<value>
+2
+			</value>
+		</qualifier>
+		<qualifier name="product">
+			<value>
+NADH dehydrogenase subunit VI
+			</value>
+		</qualifier>
+		<qualifier name="protein_id">
+			<value>
+AAF18054.1
+			</value>
+		</qualifier>
+		<qualifier name="translation">
+			<value>
+MTYFVIFLGICFMLGVLAGRLILRRIMG
+			</value>
+		</qualifier>
+	</feature>
+	<sequence>
+atgacttatttcgtgatttttcttgggatttgttttatgttaggggttttagctgggcgt
+ctaatccttcgccgtattatgggg
+	</sequence>
+</entry>
+<entry accession="AAF18055" version="1" entryVersion="2" dataClass="STD" taxonomicDivision="VRT" moleculeType="genomic DNA" sequenceLength="84" topology="linear" firstPublic="1999-12-16" firstPublicRelease="62" lastUpdated="2001-05-17" lastUpdatedRelease="67">
+	<description>Meleagris gallopavo silvestris partial NADH dehydrogenase subunit VI</description>
+	<xref db="EMBL" id="AF172954.1"/>
+	<feature name="source" location="1..84">
+		<taxon scientificName="Meleagris gallopavo silvestris" taxId="109974">
+			<lineage>
+				<taxon scientificName="Eukaryota"/>
+				<taxon scientificName="Metazoa"/>
+				<taxon scientificName="Chordata"/>
+				<taxon scientificName="Craniata"/>
+				<taxon scientificName="Vertebrata"/>
+				<taxon scientificName="Euteleostomi"/>
+				<taxon scientificName="Testudines + Archosauria group"/>
+				<taxon scientificName="Archosauria"/>
+				<taxon scientificName="Dinosauria"/>
+				<taxon scientificName="Saurischia"/>
+				<taxon scientificName="Theropoda"/>
+				<taxon scientificName="Coelurosauria"/>
+				<taxon scientificName="Aves"/>
+				<taxon scientificName="Neognathae"/>
+				<taxon scientificName="Galliformes"/>
+				<taxon scientificName="Phasianidae"/>
+				<taxon scientificName="Meleagridinae"/>
+				<taxon scientificName="Meleagris"/>
+			</lineage>
+		</taxon>
+		<qualifier name="organism">
+			<value>
+Meleagris gallopavo silvestris
+			</value>
+		</qualifier>
+		<qualifier name="organelle">
+			<value>
+mitochondrion
+			</value>
+		</qualifier>
+		<qualifier name="sub_species">
+			<value>
+silvestris
+			</value>
+		</qualifier>
+		<qualifier name="isolate">
+			<value>
+TE5
+			</value>
+		</qualifier>
+	</feature>
+	<feature name="CDS" location="complement(AF172954.1:&lt;1..84)">
+		<xref db="GOA" id="Q9T4F7"/>
+		<xref db="UniProtKB/TrEMBL" id="Q9T4F7"/>
+		<qualifier name="codon_start">
+			<value>
+1
+			</value>
+		</qualifier>
+		<qualifier name="transl_table">
+			<value>
+2
+			</value>
+		</qualifier>
+		<qualifier name="product">
+			<value>
+NADH dehydrogenase subunit VI
+			</value>
+		</qualifier>
+		<qualifier name="protein_id">
+			<value>
+AAF18055.1
+			</value>
+		</qualifier>
+		<qualifier name="translation">
+			<value>
+MTYFVIFLGICFMLGVLAGRLILRRIMG
+			</value>
+		</qualifier>
+	</feature>
+	<sequence>
+atgacttatttcgtgatttttcttgggatttgttttatgttaggggttttagctgggcgt
+ctaatccttcgccgtattatgggg
+	</sequence>
+</entry>
+<entry accession="AAF18056" version="1" entryVersion="2" dataClass="STD" taxonomicDivision="VRT" moleculeType="genomic DNA" sequenceLength="84" topology="linear" firstPublic="1999-12-16" firstPublicRelease="62" lastUpdated="2001-05-17" lastUpdatedRelease="67">
+	<description>Meleagris gallopavo silvestris partial NADH dehydrogenase subunit VI</description>
+	<xref db="EMBL" id="AF172955.1"/>
+	<feature name="source" location="1..84">
+		<taxon scientificName="Meleagris gallopavo silvestris" taxId="109974">
+			<lineage>
+				<taxon scientificName="Eukaryota"/>
+				<taxon scientificName="Metazoa"/>
+				<taxon scientificName="Chordata"/>
+				<taxon scientificName="Craniata"/>
+				<taxon scientificName="Vertebrata"/>
+				<taxon scientificName="Euteleostomi"/>
+				<taxon scientificName="Testudines + Archosauria group"/>
+				<taxon scientificName="Archosauria"/>
+				<taxon scientificName="Dinosauria"/>
+				<taxon scientificName="Saurischia"/>
+				<taxon scientificName="Theropoda"/>
+				<taxon scientificName="Coelurosauria"/>
+				<taxon scientificName="Aves"/>
+				<taxon scientificName="Neognathae"/>
+				<taxon scientificName="Galliformes"/>
+				<taxon scientificName="Phasianidae"/>
+				<taxon scientificName="Meleagridinae"/>
+				<taxon scientificName="Meleagris"/>
+			</lineage>
+		</taxon>
+		<qualifier name="organism">
+			<value>
+Meleagris gallopavo silvestris
+			</value>
+		</qualifier>
+		<qualifier name="organelle">
+			<value>
+mitochondrion
+			</value>
+		</qualifier>
+		<qualifier name="sub_species">
+			<value>
+silvestris
+			</value>
+		</qualifier>
+		<qualifier name="isolate">
+			<value>
+SCEC11
+			</value>
+		</qualifier>
+	</feature>
+	<feature name="CDS" location="complement(AF172955.1:&lt;1..84)">
+		<xref db="GOA" id="Q9T4F7"/>
+		<xref db="UniProtKB/TrEMBL" id="Q9T4F7"/>
+		<qualifier name="codon_start">
+			<value>
+1
+			</value>
+		</qualifier>
+		<qualifier name="transl_table">
+			<value>
+2
+			</value>
+		</qualifier>
+		<qualifier name="product">
+			<value>
+NADH dehydrogenase subunit VI
+			</value>
+		</qualifier>
+		<qualifier name="protein_id">
+			<value>
+AAF18056.1
+			</value>
+		</qualifier>
+		<qualifier name="translation">
+			<value>
+MTYFVIFLGICFMLGVLAGRLILRRIMG
+			</value>
+		</qualifier>
+	</feature>
+	<sequence>
+atgacttatttcgtgatttttcttgggatttgttttatgttaggggttttagctgggcgt
+ctaatccttcgccgtattatgggg
+	</sequence>
+</entry>
+<entry accession="AAF18057" version="1" entryVersion="2" dataClass="STD" taxonomicDivision="VRT" moleculeType="genomic DNA" sequenceLength="84" topology="linear" firstPublic="1999-12-16" firstPublicRelease="62" lastUpdated="2001-05-17" lastUpdatedRelease="67">
+	<description>Meleagris gallopavo silvestris partial NADH dehydrogenase subunit VI</description>
+	<xref db="EMBL" id="AF172956.1"/>
+	<feature name="source" location="1..84">
+		<taxon scientificName="Meleagris gallopavo silvestris" taxId="109974">
+			<lineage>
+				<taxon scientificName="Eukaryota"/>
+				<taxon scientificName="Metazoa"/>
+				<taxon scientificName="Chordata"/>
+				<taxon scientificName="Craniata"/>
+				<taxon scientificName="Vertebrata"/>
+				<taxon scientificName="Euteleostomi"/>
+				<taxon scientificName="Testudines + Archosauria group"/>
+				<taxon scientificName="Archosauria"/>
+				<taxon scientificName="Dinosauria"/>
+				<taxon scientificName="Saurischia"/>
+				<taxon scientificName="Theropoda"/>
+				<taxon scientificName="Coelurosauria"/>
+				<taxon scientificName="Aves"/>
+				<taxon scientificName="Neognathae"/>
+				<taxon scientificName="Galliformes"/>
+				<taxon scientificName="Phasianidae"/>
+				<taxon scientificName="Meleagridinae"/>
+				<taxon scientificName="Meleagris"/>
+			</lineage>
+		</taxon>
+		<qualifier name="organism">
+			<value>
+Meleagris gallopavo silvestris
+			</value>
+		</qualifier>
+		<qualifier name="organelle">
+			<value>
+mitochondrion
+			</value>
+		</qualifier>
+		<qualifier name="sub_species">
+			<value>
+silvestris
+			</value>
+		</qualifier>
+		<qualifier name="isolate">
+			<value>
+SCEC10
+			</value>
+		</qualifier>
+	</feature>
+	<feature name="CDS" location="complement(AF172956.1:&lt;1..84)">
+		<xref db="GOA" id="Q9T4F7"/>
+		<xref db="UniProtKB/TrEMBL" id="Q9T4F7"/>
+		<qualifier name="codon_start">
+			<value>
+1
+			</value>
+		</qualifier>
+		<qualifier name="transl_table">
+			<value>
+2
+			</value>
+		</qualifier>
+		<qualifier name="product">
+			<value>
+NADH dehydrogenase subunit VI
+			</value>
+		</qualifier>
+		<qualifier name="protein_id">
+			<value>
+AAF18057.1
+			</value>
+		</qualifier>
+		<qualifier name="translation">
+			<value>
+MTYFVIFLGICFMLGVLAGRLILRRIMG
+			</value>
+		</qualifier>
+	</feature>
+	<sequence>
+atgacttatttcgtgatttttcttgggatttgttttatgttaggggttttagctgggcgt
+ctaatccttcgccgtattatgggg
+	</sequence>
+</entry>
+<entry accession="AAF18058" version="1" entryVersion="2" dataClass="STD" taxonomicDivision="VRT" moleculeType="genomic DNA" sequenceLength="84" topology="linear" firstPublic="1999-12-16" firstPublicRelease="62" lastUpdated="2001-05-17" lastUpdatedRelease="67">
+	<description>Meleagris gallopavo silvestris partial NADH dehydrogenase subunit VI</description>
+	<xref db="EMBL" id="AF172957.1"/>
+	<feature name="source" location="1..84">
+		<taxon scientificName="Meleagris gallopavo silvestris" taxId="109974">
+			<lineage>
+				<taxon scientificName="Eukaryota"/>
+				<taxon scientificName="Metazoa"/>
+				<taxon scientificName="Chordata"/>
+				<taxon scientificName="Craniata"/>
+				<taxon scientificName="Vertebrata"/>
+				<taxon scientificName="Euteleostomi"/>
+				<taxon scientificName="Testudines + Archosauria group"/>
+				<taxon scientificName="Archosauria"/>
+				<taxon scientificName="Dinosauria"/>
+				<taxon scientificName="Saurischia"/>
+				<taxon scientificName="Theropoda"/>
+				<taxon scientificName="Coelurosauria"/>
+				<taxon scientificName="Aves"/>
+				<taxon scientificName="Neognathae"/>
+				<taxon scientificName="Galliformes"/>
+				<taxon scientificName="Phasianidae"/>
+				<taxon scientificName="Meleagridinae"/>
+				<taxon scientificName="Meleagris"/>
+			</lineage>
+		</taxon>
+		<qualifier name="organism">
+			<value>
+Meleagris gallopavo silvestris
+			</value>
+		</qualifier>
+		<qualifier name="organelle">
+			<value>
+mitochondrion
+			</value>
+		</qualifier>
+		<qualifier name="sub_species">
+			<value>
+silvestris
+			</value>
+		</qualifier>
+		<qualifier name="isolate">
+			<value>
+SCES1
+			</value>
+		</qualifier>
+	</feature>
+	<feature name="CDS" location="complement(AF172957.1:&lt;1..84)">
+		<xref db="GOA" id="Q9T4F7"/>
+		<xref db="UniProtKB/TrEMBL" id="Q9T4F7"/>
+		<qualifier name="codon_start">
+			<value>
+1
+			</value>
+		</qualifier>
+		<qualifier name="transl_table">
+			<value>
+2
+			</value>
+		</qualifier>
+		<qualifier name="product">
+			<value>
+NADH dehydrogenase subunit VI
+			</value>
+		</qualifier>
+		<qualifier name="protein_id">
+			<value>
+AAF18058.1
+			</value>
+		</qualifier>
+		<qualifier name="translation">
+			<value>
+MTYFVIFLGICFMLGVLAGRLILRRIMG
+			</value>
+		</qualifier>
+	</feature>
+	<sequence>
+atgacttatttcgtgatttttcttgggatttgttttatgttaggggttttagctgggcgt
+ctaatccttcgccgtattatgggg
+	</sequence>
+</entry>
+<entry accession="AAF18059" version="1" entryVersion="2" dataClass="STD" taxonomicDivision="VRT" moleculeType="genomic DNA" sequenceLength="84" topology="linear" firstPublic="1999-12-16" firstPublicRelease="62" lastUpdated="2001-05-17" lastUpdatedRelease="67">
+	<description>Meleagris gallopavo silvestris partial NADH dehydrogenase subunit VI</description>
+	<xref db="EMBL" id="AF172958.1"/>
+	<feature name="source" location="1..84">
+		<taxon scientificName="Meleagris gallopavo silvestris" taxId="109974">
+			<lineage>
+				<taxon scientificName="Eukaryota"/>
+				<taxon scientificName="Metazoa"/>
+				<taxon scientificName="Chordata"/>
+				<taxon scientificName="Craniata"/>
+				<taxon scientificName="Vertebrata"/>
+				<taxon scientificName="Euteleostomi"/>
+				<taxon scientificName="Testudines + Archosauria group"/>
+				<taxon scientificName="Archosauria"/>
+				<taxon scientificName="Dinosauria"/>
+				<taxon scientificName="Saurischia"/>
+				<taxon scientificName="Theropoda"/>
+				<taxon scientificName="Coelurosauria"/>
+				<taxon scientificName="Aves"/>
+				<taxon scientificName="Neognathae"/>
+				<taxon scientificName="Galliformes"/>
+				<taxon scientificName="Phasianidae"/>
+				<taxon scientificName="Meleagridinae"/>
+				<taxon scientificName="Meleagris"/>
+			</lineage>
+		</taxon>
+		<qualifier name="organism">
+			<value>
+Meleagris gallopavo silvestris
+			</value>
+		</qualifier>
+		<qualifier name="organelle">
+			<value>
+mitochondrion
+			</value>
+		</qualifier>
+		<qualifier name="sub_species">
+			<value>
+silvestris
+			</value>
+		</qualifier>
+		<qualifier name="isolate">
+			<value>
+SCES2
+			</value>
+		</qualifier>
+	</feature>
+	<feature name="CDS" location="complement(AF172958.1:&lt;1..84)">
+		<xref db="GOA" id="Q9T4F7"/>
+		<xref db="UniProtKB/TrEMBL" id="Q9T4F7"/>
+		<qualifier name="codon_start">
+			<value>
+1
+			</value>
+		</qualifier>
+		<qualifier name="transl_table">
+			<value>
+2
+			</value>
+		</qualifier>
+		<qualifier name="product">
+			<value>
+NADH dehydrogenase subunit VI
+			</value>
+		</qualifier>
+		<qualifier name="protein_id">
+			<value>
+AAF18059.1
+			</value>
+		</qualifier>
+		<qualifier name="translation">
+			<value>
+MTYFVIFLGICFMLGVLAGRLILRRIMG
+			</value>
+		</qualifier>
+	</feature>
+	<sequence>
+atgacttatttcgtgatttttcttgggatttgttttatgttaggggttttagctgggcgt
+ctaatccttcgccgtattatgggg
+	</sequence>
+</entry>
+<entry accession="AAF18060" version="1" entryVersion="2" dataClass="STD" taxonomicDivision="VRT" moleculeType="genomic DNA" sequenceLength="84" topology="linear" firstPublic="1999-12-16" firstPublicRelease="62" lastUpdated="2001-05-17" lastUpdatedRelease="67">
+	<description>Meleagris gallopavo silvestris partial NADH dehydrogenase subunit VI</description>
+	<xref db="EMBL" id="AF172959.1"/>
+	<feature name="source" location="1..84">
+		<taxon scientificName="Meleagris gallopavo silvestris" taxId="109974">
+			<lineage>
+				<taxon scientificName="Eukaryota"/>
+				<taxon scientificName="Metazoa"/>
+				<taxon scientificName="Chordata"/>
+				<taxon scientificName="Craniata"/>
+				<taxon scientificName="Vertebrata"/>
+				<taxon scientificName="Euteleostomi"/>
+				<taxon scientificName="Testudines + Archosauria group"/>
+				<taxon scientificName="Archosauria"/>
+				<taxon scientificName="Dinosauria"/>
+				<taxon scientificName="Saurischia"/>
+				<taxon scientificName="Theropoda"/>
+				<taxon scientificName="Coelurosauria"/>
+				<taxon scientificName="Aves"/>
+				<taxon scientificName="Neognathae"/>
+				<taxon scientificName="Galliformes"/>
+				<taxon scientificName="Phasianidae"/>
+				<taxon scientificName="Meleagridinae"/>
+				<taxon scientificName="Meleagris"/>
+			</lineage>
+		</taxon>
+		<qualifier name="organism">
+			<value>
+Meleagris gallopavo silvestris
+			</value>
+		</qualifier>
+		<qualifier name="organelle">
+			<value>
+mitochondrion
+			</value>
+		</qualifier>
+		<qualifier name="sub_species">
+			<value>
+silvestris
+			</value>
+		</qualifier>
+		<qualifier name="isolate">
+			<value>
+AEU8
+			</value>
+		</qualifier>
+	</feature>
+	<feature name="CDS" location="complement(AF172959.1:&lt;1..84)">
+		<xref db="GOA" id="Q9T4F7"/>
+		<xref db="UniProtKB/TrEMBL" id="Q9T4F7"/>
+		<qualifier name="codon_start">
+			<value>
+1
+			</value>
+		</qualifier>
+		<qualifier name="transl_table">
+			<value>
+2
+			</value>
+		</qualifier>
+		<qualifier name="product">
+			<value>
+NADH dehydrogenase subunit VI
+			</value>
+		</qualifier>
+		<qualifier name="protein_id">
+			<value>
+AAF18060.1
+			</value>
+		</qualifier>
+		<qualifier name="translation">
+			<value>
+MTYFVIFLGICFMLGVLAGRLILRRIMG
+			</value>
+		</qualifier>
+	</feature>
+	<sequence>
+atgacttatttcgtgatttttcttgggatttgttttatgttaggggttttagctgggcgt
+ctaatccttcgccgtattatgggg
+	</sequence>
+</entry>
+<entry accession="AAF18061" version="1" entryVersion="2" dataClass="STD" taxonomicDivision="VRT" moleculeType="genomic DNA" sequenceLength="84" topology="linear" firstPublic="1999-12-16" firstPublicRelease="62" lastUpdated="2001-05-17" lastUpdatedRelease="67">
+	<description>Meleagris gallopavo silvestris partial NADH dehydrogenase subunit VI</description>
+	<xref db="EMBL" id="AF172960.1"/>
+	<feature name="source" location="1..84">
+		<taxon scientificName="Meleagris gallopavo silvestris" taxId="109974">
+			<lineage>
+				<taxon scientificName="Eukaryota"/>
+				<taxon scientificName="Metazoa"/>
+				<taxon scientificName="Chordata"/>
+				<taxon scientificName="Craniata"/>
+				<taxon scientificName="Vertebrata"/>
+				<taxon scientificName="Euteleostomi"/>
+				<taxon scientificName="Testudines + Archosauria group"/>
+				<taxon scientificName="Archosauria"/>
+				<taxon scientificName="Dinosauria"/>
+				<taxon scientificName="Saurischia"/>
+				<taxon scientificName="Theropoda"/>
+				<taxon scientificName="Coelurosauria"/>
+				<taxon scientificName="Aves"/>
+				<taxon scientificName="Neognathae"/>
+				<taxon scientificName="Galliformes"/>
+				<taxon scientificName="Phasianidae"/>
+				<taxon scientificName="Meleagridinae"/>
+				<taxon scientificName="Meleagris"/>
+			</lineage>
+		</taxon>
+		<qualifier name="organism">
+			<value>
+Meleagris gallopavo silvestris
+			</value>
+		</qualifier>
+		<qualifier name="organelle">
+			<value>
+mitochondrion
+			</value>
+		</qualifier>
+		<qualifier name="sub_species">
+			<value>
+silvestris
+			</value>
+		</qualifier>
+		<qualifier name="isolate">
+			<value>
+AEU7
+			</value>
+		</qualifier>
+	</feature>
+	<feature name="CDS" location="complement(AF172960.1:&lt;1..84)">
+		<xref db="GOA" id="Q9T4F7"/>
+		<xref db="UniProtKB/TrEMBL" id="Q9T4F7"/>
+		<qualifier name="codon_start">
+			<value>
+1
+			</value>
+		</qualifier>
+		<qualifier name="transl_table">
+			<value>
+2
+			</value>
+		</qualifier>
+		<qualifier name="product">
+			<value>
+NADH dehydrogenase subunit VI
+			</value>
+		</qualifier>
+		<qualifier name="protein_id">
+			<value>
+AAF18061.1
+			</value>
+		</qualifier>
+		<qualifier name="translation">
+			<value>
+MTYFVIFLGICFMLGVLAGRLILRRIMG
+			</value>
+		</qualifier>
+	</feature>
+	<sequence>
+atgacttatttcgtgatttttcttgggatttgttttatgttaggggttttagctgggcgt
+ctaatccttcgccgtattatgggg
+	</sequence>
+</entry>
+<entry accession="AAF18062" version="1" entryVersion="2" dataClass="STD" taxonomicDivision="VRT" moleculeType="genomic DNA" sequenceLength="84" topology="linear" firstPublic="1999-12-16" firstPublicRelease="62" lastUpdated="2001-05-17" lastUpdatedRelease="67">
+	<description>Meleagris gallopavo silvestris partial NADH dehydrogenase subunit VI</description>
+	<xref db="EMBL" id="AF172961.1"/>
+	<feature name="source" location="1..84">
+		<taxon scientificName="Meleagris gallopavo silvestris" taxId="109974">
+			<lineage>
+				<taxon scientificName="Eukaryota"/>
+				<taxon scientificName="Metazoa"/>
+				<taxon scientificName="Chordata"/>
+				<taxon scientificName="Craniata"/>
+				<taxon scientificName="Vertebrata"/>
+				<taxon scientificName="Euteleostomi"/>
+				<taxon scientificName="Testudines + Archosauria group"/>
+				<taxon scientificName="Archosauria"/>
+				<taxon scientificName="Dinosauria"/>
+				<taxon scientificName="Saurischia"/>
+				<taxon scientificName="Theropoda"/>
+				<taxon scientificName="Coelurosauria"/>
+				<taxon scientificName="Aves"/>
+				<taxon scientificName="Neognathae"/>
+				<taxon scientificName="Galliformes"/>
+				<taxon scientificName="Phasianidae"/>
+				<taxon scientificName="Meleagridinae"/>
+				<taxon scientificName="Meleagris"/>
+			</lineage>
+		</taxon>
+		<qualifier name="organism">
+			<value>
+Meleagris gallopavo silvestris
+			</value>
+		</qualifier>
+		<qualifier name="organelle">
+			<value>
+mitochondrion
+			</value>
+		</qualifier>
+		<qualifier name="sub_species">
+			<value>
+silvestris
+			</value>
+		</qualifier>
+		<qualifier name="isolate">
+			<value>
+SDE7
+			</value>
+		</qualifier>
+	</feature>
+	<feature name="CDS" location="complement(AF172961.1:&lt;1..84)">
+		<xref db="GOA" id="Q9T4F7"/>
+		<xref db="UniProtKB/TrEMBL" id="Q9T4F7"/>
+		<qualifier name="codon_start">
+			<value>
+1
+			</value>
+		</qualifier>
+		<qualifier name="transl_table">
+			<value>
+2
+			</value>
+		</qualifier>
+		<qualifier name="product">
+			<value>
+NADH dehydrogenase subunit VI
+			</value>
+		</qualifier>
+		<qualifier name="protein_id">
+			<value>
+AAF18062.1
+			</value>
+		</qualifier>
+		<qualifier name="translation">
+			<value>
+MTYFVIFLGICFMLGVLAGRLILRRIMG
+			</value>
+		</qualifier>
+	</feature>
+	<sequence>
+atgacttatttcgtgatttttcttgggatttgttttatgttaggggttttagctgggcgt
+ctaatccttcgccgtattatgggg
+	</sequence>
+</entry>
+<entry accession="AET31401" version="1" entryVersion="2" dataClass="STD" taxonomicDivision="VRT" moleculeType="mRNA" sequenceLength="690" topology="linear" firstPublic="2011-11-15" firstPublicRelease="110" lastUpdated="2013-04-28" lastUpdatedRelease="116">
+	<description>Meleagris gallopavo silvestris glutathione S-transferase alpha class A4</description>
+	<xref db="EMBL" id="JN575081.1"/>
+	<feature name="source" location="1..690">
+		<taxon scientificName="Meleagris gallopavo silvestris" taxId="109974">
+			<lineage>
+				<taxon scientificName="Eukaryota"/>
+				<taxon scientificName="Metazoa"/>
+				<taxon scientificName="Chordata"/>
+				<taxon scientificName="Craniata"/>
+				<taxon scientificName="Vertebrata"/>
+				<taxon scientificName="Euteleostomi"/>
+				<taxon scientificName="Testudines + Archosauria group"/>
+				<taxon scientificName="Archosauria"/>
+				<taxon scientificName="Dinosauria"/>
+				<taxon scientificName="Saurischia"/>
+				<taxon scientificName="Theropoda"/>
+				<taxon scientificName="Coelurosauria"/>
+				<taxon scientificName="Aves"/>
+				<taxon scientificName="Neognathae"/>
+				<taxon scientificName="Galliformes"/>
+				<taxon scientificName="Phasianidae"/>
+				<taxon scientificName="Meleagridinae"/>
+				<taxon scientificName="Meleagris"/>
+			</lineage>
+		</taxon>
+		<qualifier name="organism">
+			<value>
+Meleagris gallopavo silvestris
+			</value>
+		</qualifier>
+		<qualifier name="sub_species">
+			<value>
+silvestris
+			</value>
+		</qualifier>
+	</feature>
+	<feature name="CDS" location="JN575081.1:1..690">
+		<xref db="GOA" id="G8HHE7"/>
+		<xref db="InterPro" id="IPR003080"/>
+		<xref db="InterPro" id="IPR004045"/>
+		<xref db="InterPro" id="IPR004046"/>
+		<xref db="InterPro" id="IPR010987"/>
+		<xref db="InterPro" id="IPR012336"/>
+		<xref db="InterPro" id="IPR017933"/>
+		<xref db="UniProtKB/TrEMBL" id="G8HHE7"/>
+		<qualifier name="codon_start">
+			<value>
+1
+			</value>
+		</qualifier>
+		<qualifier name="gene">
+			<value>
+GSTA4
+			</value>
+		</qualifier>
+		<qualifier name="product">
+			<value>
+glutathione S-transferase alpha class A4
+			</value>
+		</qualifier>
+		<qualifier name="protein_id">
+			<value>
+AET31401.1
+			</value>
+		</qualifier>
+		<qualifier name="translation">
+			<value>
+MAAKPVLYYFDGRGKMESIRWLLAAAGVEFEEVFLETREQYEKLLQSGVLMFQQVPMVEIDGMKLVQTRAILNYIAGKYN
+LYGKDLKERALIDMYVGGTDDLMGFLLSFPFLSAEDKVKQCAFVVQKATSRYFPAYEKVLKDHGQDFLVGNRLSWADIHL
+LEAILMLEEKKSDALSGFPLLQAFKKRISSIPTIKKFLAPGSKRKPISDDKYVETVRRVLRMYYDVKPN
+			</value>
+		</qualifier>
+	</feature>
+	<sequence>
+atggctgcaaaacctgtactctactactttgatggaagaggcaaaatggagtcgatccgc
+tggctgctggctgcagctggggtcgagtttgaagaggtgtttttggaaacacgagagcag
+tatgagaaactcctgcaaagtggagtcctcatgttccagcaagtgcccatggtggagatc
+gatgggatgaagttggtgcagaccagagccatcctcaattacatcgcagggaaatacaac
+ctctacgggaaagacctgaaggagagagccctgattgacatgtatgttgggggaacagat
+gaccttatgggcttcttattgagtttcccgttcttatcagctgaggataaggtgaaacaa
+tgtgcctttgtagttcagaaggctacaagcaggtacttcccagcatatgaaaaggttttg
+aaagaccatggccaggactttcttgttggcaaccgtctcagctgggcagatattcatctt
+cttgaagccattttaatgctagaagagaagaagtcagatgctctctcgggatttcctctg
+ttacaggcatttaaaaaaaggataagcagcatccccacaatcaagaagttcctagcgcct
+ggaagcaagagaaaacctatttctgatgataaatacgtggagactgtgaggagggttctc
+cggatgtattatgatgtaaaaccaaattag
+	</sequence>
+</entry>
+<entry accession="AET31404" version="1" entryVersion="2" dataClass="STD" taxonomicDivision="VRT" moleculeType="mRNA" sequenceLength="672" topology="linear" firstPublic="2011-11-15" firstPublicRelease="110" lastUpdated="2013-04-28" lastUpdatedRelease="116">
+	<description>Meleagris gallopavo silvestris glutathione S-transferase alpha class A3</description>
+	<xref db="EMBL" id="JN575080.1"/>
+	<feature name="source" location="1..672">
+		<taxon scientificName="Meleagris gallopavo silvestris" taxId="109974">
+			<lineage>
+				<taxon scientificName="Eukaryota"/>
+				<taxon scientificName="Metazoa"/>
+				<taxon scientificName="Chordata"/>
+				<taxon scientificName="Craniata"/>
+				<taxon scientificName="Vertebrata"/>
+				<taxon scientificName="Euteleostomi"/>
+				<taxon scientificName="Testudines + Archosauria group"/>
+				<taxon scientificName="Archosauria"/>
+				<taxon scientificName="Dinosauria"/>
+				<taxon scientificName="Saurischia"/>
+				<taxon scientificName="Theropoda"/>
+				<taxon scientificName="Coelurosauria"/>
+				<taxon scientificName="Aves"/>
+				<taxon scientificName="Neognathae"/>
+				<taxon scientificName="Galliformes"/>
+				<taxon scientificName="Phasianidae"/>
+				<taxon scientificName="Meleagridinae"/>
+				<taxon scientificName="Meleagris"/>
+			</lineage>
+		</taxon>
+		<qualifier name="organism">
+			<value>
+Meleagris gallopavo silvestris
+			</value>
+		</qualifier>
+		<qualifier name="sub_species">
+			<value>
+silvestris
+			</value>
+		</qualifier>
+	</feature>
+	<feature name="CDS" location="JN575080.1:1..672">
+		<xref db="GOA" id="G8HHE6"/>
+		<xref db="InterPro" id="IPR003080"/>
+		<xref db="InterPro" id="IPR004045"/>
+		<xref db="InterPro" id="IPR004046"/>
+		<xref db="InterPro" id="IPR010987"/>
+		<xref db="InterPro" id="IPR012336"/>
+		<xref db="InterPro" id="IPR017933"/>
+		<xref db="UniProtKB/TrEMBL" id="G8HHE6"/>
+		<qualifier name="codon_start">
+			<value>
+1
+			</value>
+		</qualifier>
+		<qualifier name="gene">
+			<value>
+GSTA3
+			</value>
+		</qualifier>
+		<qualifier name="product">
+			<value>
+glutathione S-transferase alpha class A3
+			</value>
+		</qualifier>
+		<qualifier name="protein_id">
+			<value>
+AET31404.1
+			</value>
+		</qualifier>
+		<qualifier name="translation">
+			<value>
+MSEKPRLTYINGRGRMESIRWLLAAAGVEFEEIFLQTREQLLKLGQDGSLMFHQLPLVEIDGMKLVQCRAILSYIAGKYN
+LYGKDLKERALIDMYVEGISDLMQLILMFPFSPPEAKEKNIATIAEKATERYFPVFEKVLKQHGQDFLVGNRFSWADVQL
+MEAILAVEEKVPSVLSGFPQLQAFKTKMSNMPTIKKFLQPGSPRKPPPDENYVATVMKIFKLD
+			</value>
+		</qualifier>
+	</feature>
+	<sequence>
+atgtcggagaagcccaggctcacctatatcaatggaagagggcgaatggagtccatccga
+tggctgctagctgcagctggagtggagtttgaagaaatttttctgcaaacaagagagcag
+ttactgaagttaggccaagatggatccctgatgttccatcaattgccgctggttgagatc
+gacgggatgaagttggtgcagtgcagagccatcctcagctacatagcagggaaatacaat
+ctctatgggaaagacttgaaggagagagccctgattgacatgtatgtggaaggaatatca
+gatctgatgcaattgattttgatgtttcctttctctccacctgaggcaaaggagaaaaat
+attgccacaattgcagagaaggcaacagagaggtacttccctgtctttgaaaaggtcttg
+aaacagcatggccaagactttcttgtgggaaaccgattcagctgggcagatgttcagctc
+atggaagccattttagcagtggaggagaaagtaccttctgtgctttctgggtttcctcag
+ctgcaggcttttaaaaccaaaatgagcaacatgcctacaattaagaagttcctgcagcct
+ggcagcccaagaaaacccccaccagatgaaaattatgtagcaactgtgatgaaaattttt
+aagctagactga
+	</sequence>
+</entry>
+<entry accession="AET31407" version="1" entryVersion="2" dataClass="STD" taxonomicDivision="VRT" moleculeType="mRNA" sequenceLength="669" topology="linear" firstPublic="2011-11-15" firstPublicRelease="110" lastUpdated="2013-04-28" lastUpdatedRelease="116">
+	<description>Meleagris gallopavo silvestris glutathione S-transferase alpha class A2</description>
+	<xref db="EMBL" id="JN575079.1"/>
+	<feature name="source" location="1..669">
+		<taxon scientificName="Meleagris gallopavo silvestris" taxId="109974">
+			<lineage>
+				<taxon scientificName="Eukaryota"/>
+				<taxon scientificName="Metazoa"/>
+				<taxon scientificName="Chordata"/>
+				<taxon scientificName="Craniata"/>
+				<taxon scientificName="Vertebrata"/>
+				<taxon scientificName="Euteleostomi"/>
+				<taxon scientificName="Testudines + Archosauria group"/>
+				<taxon scientificName="Archosauria"/>
+				<taxon scientificName="Dinosauria"/>
+				<taxon scientificName="Saurischia"/>
+				<taxon scientificName="Theropoda"/>
+				<taxon scientificName="Coelurosauria"/>
+				<taxon scientificName="Aves"/>
+				<taxon scientificName="Neognathae"/>
+				<taxon scientificName="Galliformes"/>
+				<taxon scientificName="Phasianidae"/>
+				<taxon scientificName="Meleagridinae"/>
+				<taxon scientificName="Meleagris"/>
+			</lineage>
+		</taxon>
+		<qualifier name="organism">
+			<value>
+Meleagris gallopavo silvestris
+			</value>
+		</qualifier>
+		<qualifier name="sub_species">
+			<value>
+silvestris
+			</value>
+		</qualifier>
+	</feature>
+	<feature name="CDS" location="JN575079.1:1..669">
+		<xref db="GOA" id="G8HHE5"/>
+		<xref db="InterPro" id="IPR003080"/>
+		<xref db="InterPro" id="IPR004045"/>
+		<xref db="InterPro" id="IPR004046"/>
+		<xref db="InterPro" id="IPR010987"/>
+		<xref db="InterPro" id="IPR012336"/>
+		<xref db="InterPro" id="IPR017933"/>
+		<xref db="UniProtKB/TrEMBL" id="G8HHE5"/>
+		<qualifier name="codon_start">
+			<value>
+1
+			</value>
+		</qualifier>
+		<qualifier name="gene">
+			<value>
+GSTA2
+			</value>
+		</qualifier>
+		<qualifier name="product">
+			<value>
+glutathione S-transferase alpha class A2
+			</value>
+		</qualifier>
+		<qualifier name="protein_id">
+			<value>
+AET31407.1
+			</value>
+		</qualifier>
+		<qualifier name="translation">
+			<value>
+MAEKPKLHYTRGRGKMESIRWLLAAAGVEFEEEFIEKKEDLEKLRNDGSLLFQQVPMVEIDGMKMVQTRAILCYIAGKYN
+LYGKDLKERAWIDMYVEGTTDLMGMIMALPFQAADVKEKNIALITERATTRYFPVYEKALKDHGQDYLVGNKLSWADIHL
+LEAILMTEELKSDILSAFPLLQAFKGRMSNVPTIKKFLQPGSQRKPPLDEKSIANVRKIFSF
+			</value>
+		</qualifier>
+	</feature>
+	<sequence>
+atggcggagaaacctaagcttcactataccagaggaagggggaagatggagtcaatccgg
+tggctgttagcagcagctggggttgaatttgaggaagaatttatagaaaaaaaagaagac
+ctagaaaaattacgcaatgatggatccctgttgttccagcaagtgcccatggtggaaatc
+gatgggatgaagatggtgcagactagagccatcctctgctacatagcagggaaatacaat
+ctctatgggaaagatctgaaggagagagcctggattgatatgtatgtggagggaacaaca
+gacctgatgggaatgatcatggctctcccttttcaagcagccgatgtgaaagaaaagaat
+attgccttaatcactgaacgagctacaaccagatactttcctgtttatgaaaaggcctta
+aaagaccatggtcaggattatcttgttggcaacaagctaagctgggcagacatccacctg
+ctggaagccattttaatgacagaagaacttaagtctgatatactctctgcattccctctg
+ctacaggcttttaaaggaagaatgagcaacgtcccaacaatcaaaaaattcttgcagcct
+ggcagccagaggaagccaccattagatgagaaatcaattgctaatgtgaggaaaatattc
+agtttctaa
+	</sequence>
+</entry>
+<entry accession="AET31410" version="1" entryVersion="2" dataClass="STD" taxonomicDivision="VRT" moleculeType="mRNA" sequenceLength="666" topology="linear" firstPublic="2011-11-15" firstPublicRelease="110" lastUpdated="2013-04-28" lastUpdatedRelease="116">
+	<description>Meleagris gallopavo silvestris glutathione S-transferase alpha class A1.3</description>
+	<xref db="EMBL" id="JN575078.1"/>
+	<feature name="source" location="1..666">
+		<taxon scientificName="Meleagris gallopavo silvestris" taxId="109974">
+			<lineage>
+				<taxon scientificName="Eukaryota"/>
+				<taxon scientificName="Metazoa"/>
+				<taxon scientificName="Chordata"/>
+				<taxon scientificName="Craniata"/>
+				<taxon scientificName="Vertebrata"/>
+				<taxon scientificName="Euteleostomi"/>
+				<taxon scientificName="Testudines + Archosauria group"/>
+				<taxon scientificName="Archosauria"/>
+				<taxon scientificName="Dinosauria"/>
+				<taxon scientificName="Saurischia"/>
+				<taxon scientificName="Theropoda"/>
+				<taxon scientificName="Coelurosauria"/>
+				<taxon scientificName="Aves"/>
+				<taxon scientificName="Neognathae"/>
+				<taxon scientificName="Galliformes"/>
+				<taxon scientificName="Phasianidae"/>
+				<taxon scientificName="Meleagridinae"/>
+				<taxon scientificName="Meleagris"/>
+			</lineage>
+		</taxon>
+		<qualifier name="organism">
+			<value>
+Meleagris gallopavo silvestris
+			</value>
+		</qualifier>
+		<qualifier name="sub_species">
+			<value>
+silvestris
+			</value>
+		</qualifier>
+	</feature>
+	<feature name="CDS" location="JN575078.1:1..666">
+		<xref db="GOA" id="G8HHE4"/>
+		<xref db="InterPro" id="IPR003080"/>
+		<xref db="InterPro" id="IPR004045"/>
+		<xref db="InterPro" id="IPR004046"/>
+		<xref db="InterPro" id="IPR010987"/>
+		<xref db="InterPro" id="IPR012336"/>
+		<xref db="InterPro" id="IPR017933"/>
+		<xref db="UniProtKB/TrEMBL" id="G8HHE4"/>
+		<qualifier name="codon_start">
+			<value>
+1
+			</value>
+		</qualifier>
+		<qualifier name="gene">
+			<value>
+GSTA1.3
+			</value>
+		</qualifier>
+		<qualifier name="product">
+			<value>
+glutathione S-transferase alpha class A1.3
+			</value>
+		</qualifier>
+		<qualifier name="protein_id">
+			<value>
+AET31410.1
+			</value>
+		</qualifier>
+		<qualifier name="translation">
+			<value>
+MSGKPVLHYVSVRGRMEPVKWLLAAAGVEFEERFLETKEDLQKLRADGCLLFQQVPMVEIDGMKLVQTRAILNYIAGKYN
+LYGKDLKERALIDMYVEGMADLYDIIMNHDFKPANEKEKDLANIMDKATNRYLPVFEKVLKDHGHDFLVGNKLSRADVNL
+LETILMVEEFKSDALAKFPLLQSFKARMSNIPSIKKFLQPGSPRKPPLQEKDIPNLLAIFS
+			</value>
+		</qualifier>
+	</feature>
+	<sequence>
+atgtctgggaagccagttctgcactatgtcagtgtacgcggccgaatggaaccagtgaag
+tggctactagcagctgctggagttgagtttgaagaaagatttctggaaacaaaagaagat
+ctccaaaagttaagggcagatggatgcctgctgttccagcaagtgcccatggtggagatc
+gatgggatgaagttggtgcagaccagagccatcctcaactacatcgcagggaaatacaac
+ctttacgggaaagacctgaaggagagagccctaattgacatgtatgtggaaggaatggca
+gatctgtatgatataatcatgaaccatgacttcaaacctgctaatgaaaaggagaaagat
+cttgcaaatattatggacaaggccacaaatagatacttaccagtctttgagaaggttttg
+aaagaccacgggcatgactttcttgttggcaacaagttgagcagagcagatgtgaattta
+ctggaaaccattttaatggtggaagagttcaagtctgatgcacttgcaaaatttcctctc
+ttgcagagttttaaagcaagaatgagcaatatccccagcatcaagaaattcctgcaacct
+ggcagcccaaggaaaccacctctacaggaaaaagatataccaaacctgctggcaattttc
+agttga
+	</sequence>
+</entry>
+<entry accession="AET31413" version="1" entryVersion="2" dataClass="STD" taxonomicDivision="VRT" moleculeType="mRNA" sequenceLength="666" topology="linear" firstPublic="2011-11-15" firstPublicRelease="110" lastUpdated="2013-04-28" lastUpdatedRelease="116">
+	<description>Meleagris gallopavo silvestris glutathione S-transferase alpha class A1.2</description>
+	<xref db="EMBL" id="JN575077.1"/>
+	<feature name="source" location="1..666">
+		<taxon scientificName="Meleagris gallopavo silvestris" taxId="109974">
+			<lineage>
+				<taxon scientificName="Eukaryota"/>
+				<taxon scientificName="Metazoa"/>
+				<taxon scientificName="Chordata"/>
+				<taxon scientificName="Craniata"/>
+				<taxon scientificName="Vertebrata"/>
+				<taxon scientificName="Euteleostomi"/>
+				<taxon scientificName="Testudines + Archosauria group"/>
+				<taxon scientificName="Archosauria"/>
+				<taxon scientificName="Dinosauria"/>
+				<taxon scientificName="Saurischia"/>
+				<taxon scientificName="Theropoda"/>
+				<taxon scientificName="Coelurosauria"/>
+				<taxon scientificName="Aves"/>
+				<taxon scientificName="Neognathae"/>
+				<taxon scientificName="Galliformes"/>
+				<taxon scientificName="Phasianidae"/>
+				<taxon scientificName="Meleagridinae"/>
+				<taxon scientificName="Meleagris"/>
+			</lineage>
+		</taxon>
+		<qualifier name="organism">
+			<value>
+Meleagris gallopavo silvestris
+			</value>
+		</qualifier>
+		<qualifier name="sub_species">
+			<value>
+silvestris
+			</value>
+		</qualifier>
+	</feature>
+	<feature name="CDS" location="JN575077.1:1..666">
+		<xref db="GOA" id="G8HHE3"/>
+		<xref db="InterPro" id="IPR003080"/>
+		<xref db="InterPro" id="IPR004045"/>
+		<xref db="InterPro" id="IPR004046"/>
+		<xref db="InterPro" id="IPR010987"/>
+		<xref db="InterPro" id="IPR012336"/>
+		<xref db="InterPro" id="IPR017933"/>
+		<xref db="UniProtKB/TrEMBL" id="G8HHE3"/>
+		<qualifier name="codon_start">
+			<value>
+1
+			</value>
+		</qualifier>
+		<qualifier name="gene">
+			<value>
+GSTA1.2
+			</value>
+		</qualifier>
+		<qualifier name="product">
+			<value>
+glutathione S-transferase alpha class A1.2
+			</value>
+		</qualifier>
+		<qualifier name="protein_id">
+			<value>
+AET31413.1
+			</value>
+		</qualifier>
+		<qualifier name="translation">
+			<value>
+MSGKPVLHYANIRGRMEPIRWLLAAAGVEFEERILKTKDDLQKLRTDGCLLFQQVPMVEIDGMKMVQTRAILNYIAGKYN
+LYGKDLKERALIDMYVEGLADLFELIMYHEFKPANEKEKDLANIMDKATNRYLPVFEKVLKDHGHDFLVGNKLSKADVSL
+LENILGLEELKPDALAKFPLLQSFKARMSNIPSIKKFLQPGSAKKPLIQEKDIPSVIAIFH
+			</value>
+		</qualifier>
+	</feature>
+	<sequence>
+atgtctgggaagccagttctgcactatgctaatatacgaggccgaatggaaccaataagg
+tggctactagcagctgctggagttgagtttgaagaaagaattctgaaaactaaggatgat
+ctccaaaagttaaggacagatggatgcctgctgttccagcaagtgcccatggtggagatc
+gatgggatgaagatggtgcagaccagagccatcctcaactacatcgcagggaaatacaac
+ctttacgggaaagacctgaaggagagagccctaattgacatgtatgtggaaggattggca
+gatctgtttgagttaatcatgtaccatgaattcaaacctgctaatgaaaaggagaaagat
+cttgcaaacattatggacaaggccacaaacagatacttaccagtctttgagaaggttttg
+aaagaccatgggcatgactttcttgttggcaacaagttgagcaaagcagatgtgagttta
+ctggaaaacattttggggttggaagagttgaagcctgatgcacttgcaaaatttcctctc
+ttgcagagttttaaagcaagaatgagcaatatccccagcatcaagaaattcctgcaacct
+ggcagtgcaaagaaaccactgattcaggaaaaagatataccaagtgtgatagcaattttc
+cactga
+	</sequence>
+</entry>
+<entry accession="AET31416" version="1" entryVersion="2" dataClass="STD" taxonomicDivision="VRT" moleculeType="mRNA" sequenceLength="663" topology="linear" firstPublic="2011-11-15" firstPublicRelease="110" lastUpdated="2013-04-28" lastUpdatedRelease="116">
+	<description>Meleagris gallopavo silvestris glutathione S-transferase alpha class A1.1</description>
+	<xref db="EMBL" id="JN575076.1"/>
+	<feature name="source" location="1..663">
+		<taxon scientificName="Meleagris gallopavo silvestris" taxId="109974">
+			<lineage>
+				<taxon scientificName="Eukaryota"/>
+				<taxon scientificName="Metazoa"/>
+				<taxon scientificName="Chordata"/>
+				<taxon scientificName="Craniata"/>
+				<taxon scientificName="Vertebrata"/>
+				<taxon scientificName="Euteleostomi"/>
+				<taxon scientificName="Testudines + Archosauria group"/>
+				<taxon scientificName="Archosauria"/>
+				<taxon scientificName="Dinosauria"/>
+				<taxon scientificName="Saurischia"/>
+				<taxon scientificName="Theropoda"/>
+				<taxon scientificName="Coelurosauria"/>
+				<taxon scientificName="Aves"/>
+				<taxon scientificName="Neognathae"/>
+				<taxon scientificName="Galliformes"/>
+				<taxon scientificName="Phasianidae"/>
+				<taxon scientificName="Meleagridinae"/>
+				<taxon scientificName="Meleagris"/>
+			</lineage>
+		</taxon>
+		<qualifier name="organism">
+			<value>
+Meleagris gallopavo silvestris
+			</value>
+		</qualifier>
+		<qualifier name="sub_species">
+			<value>
+silvestris
+			</value>
+		</qualifier>
+	</feature>
+	<feature name="CDS" location="JN575076.1:1..663">
+		<xref db="GOA" id="G8HHE2"/>
+		<xref db="InterPro" id="IPR003080"/>
+		<xref db="InterPro" id="IPR004045"/>
+		<xref db="InterPro" id="IPR004046"/>
+		<xref db="InterPro" id="IPR010987"/>
+		<xref db="InterPro" id="IPR012336"/>
+		<xref db="InterPro" id="IPR017933"/>
+		<xref db="UniProtKB/TrEMBL" id="G8HHE2"/>
+		<qualifier name="codon_start">
+			<value>
+1
+			</value>
+		</qualifier>
+		<qualifier name="gene">
+			<value>
+GSTA1.1
+			</value>
+		</qualifier>
+		<qualifier name="product">
+			<value>
+glutathione S-transferase alpha class A1.1
+			</value>
+		</qualifier>
+		<qualifier name="protein_id">
+			<value>
+AET31416.1
+			</value>
+		</qualifier>
+		<qualifier name="translation">
+			<value>
+MSGKPVLHYPNTRGRMESVRWLLAAAGVEFEEKFLEKKEDLQKLQSDGFLLFQQVPMVEIDGMKLVQTRAILNYIAGKYN
+LYGKDVKERALIDMYVEGMADLYELIMMNVVQPADKKEEHLANALDKATNRYFPVFEKILNHGHDFLVGNKLSRADVSLL
+ETILVVEERKPDALAKFPLLQSFKARISNIPNIKKFLQPGSQRKPPLQEKDIPSLMAIFH
+			</value>
+		</qualifier>
+	</feature>
+	<sequence>
+atgtctgggaagccagttctgcactatcccaacacacgaggccgaatggaatcagtacgg
+tggctgctagcggctgctggggttgagtttgaagaaaaatttctggaaaaaaaggaagat
+ctccaaaagttacagtcggatggattcctgctgttccagcaagtgcccatggtggagatc
+gatgggatgaagttggtgcagaccagagccatcctcaactacatcgcagggaaatacaac
+ctctacgggaaagacgtgaaagagagagccctaattgacatgtatgtggaaggaatggca
+gatctgtatgagttaatcatgatgaatgttgtccaaccagcagataaaaaggaggaacat
+cttgctaatgctttggacaaggccacaaacagatatttcccagtcttcgaaaagattttg
+aaccacgggcatgactttcttgttggcaacaagctgagcagagctgatgtgagtttactg
+gaaaccattttagtggtggaagagcgcaagcctgatgcacttgcaaaatttcctctcttg
+cagagttttaaagcaagaataagcaatatccccaacatcaagaaattcctgcagcctggc
+agccagaggaaaccacctttacaggaaaaagatataccaagtctgatggcaattttccat
+tga
+	</sequence>
+</entry>
+</ROOT>
