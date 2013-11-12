@@ -36,5 +36,5 @@
   "dependencies": {
 	  "node-xml2json": "~1.0.0"
   },
-  "keywords": []
+  "keywords": ["EMBL","EBI","XML","JSON","parser","Bioinformatics"]
 }
